@@ -1,4 +1,4 @@
-# 💬 Chatbot
+# LLM Chatbot
 
 A chatbot powered by OpenAI's GPT-3.5. This project provides a minimal interface to interact with a large language model (LLM), designed for ease of use and quick customisation.
 

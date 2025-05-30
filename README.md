@@ -1,6 +1,6 @@
-# 💬 Chatbot template
+# 💬 Chatbot
 
-A chatbot using OpenAI's GPT-3.5.
+A chatbot powered by OpenAI's GPT-3.5. This project provides a minimal interface to interact with a large language model (LLM), designed for ease of use and quick customiSation.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
 

@@ -4,7 +4,8 @@ A chatbot powered by OpenAI's GPT-3.5. This project provides a minimal interface
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
 
-Features
+
+### Features
 ********************************************************
 - GPT-3.5 Integration: Leverages OpenAI’s API for natural language conversations.
 
@@ -14,7 +15,7 @@ Features
 
 - Modular Codebase: Easy to extend and adapt to different use cases.
 
-
+*******************************************************
 
 ### How to run it on your own machine
 
